@@ -1,3 +1,1 @@
-# usefull-sri-lanka-database-tables
-
-Usefull database tables for web developers.
+# countries-with-country-code-sql-table
